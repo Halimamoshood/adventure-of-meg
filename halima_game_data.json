@@ -234,7 +234,7 @@
     "NAVIGATION": "press 1 to go to saturn, 2 for disneyland, 3 for alien residence",
     "WIN": 0,
     "LOSE": 0,
-    "STRANGER": 1,
+    "STRANGER": 0,
     "BIRD": 1,
     "WEATHER": 0,
     "ITEM": 1
