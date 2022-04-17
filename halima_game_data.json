@@ -235,7 +235,7 @@
     "WIN": 0,
     "LOSE": 0,
     "STRANGER": 0,
-    "BIRD": 1,
+    "BIRD": 0,
     "WEATHER": 0,
     "ITEM": 1
   },
