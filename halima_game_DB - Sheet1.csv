@@ -1,0 +1,26 @@
+ID,ROOM,C1,C2,C3,STORY,NAVIGATION,WIN,LOSE,STRANGER,BIRD
+1,home,24,17,18,you are currently at home in your bedroom.. thinking what could possibly go wrong today.,"press 1 to go to alien residence, 2 for medical, 3 for marvel studio",0,0,0,1
+2,office,19,12,22,"you are in the office, you can see your work computer and your colleagues sitting by their desks","press 1 to go to disneyland, 2 for uranus, 3 for arabian desert",0,0,0,0
+3,church,21,20,13,"you are at your commmunity church, you can see people exchanging pleasantries and smilling at one another, like nothing is wrong ","press 1 to go to mount everest, 2 for undersea, 3 for venus",0,0,0,0
+4,market,15,23,6,"you arrived at the market, where there are people buying and selling items for consumption and money","press 1 to go to disco, 2 for antarctica, 3 for moon",0,0,0,0
+5,casino,4,1,6,"you are at the casino, where people are busy gambling and losing money for no good reason.... some people winning too tho","press 1 to go to market, 2 for home, 3 for moon",0,0,1,0
+6,moon,8,13,4,"wow, you arrived on the moon, the surface of the moon is like nothing on earth, It has lots of fine, talcum-powderlike dust mixed with a complete variety of pebbles, rocks, and boulders.","press 1 to go to mercury, 2 for venus, 3 for market",0,0,0,1
+7,mars,11,12,6,"you reached mars, it feels like spring at your feet and winter at your head","press 1 to go to neptune, 2 for uranus, 3 for moon",0,0,1,0
+8,mercury,25,16,17,"you landed on mercury, mercury may affect the nervous system, leading to neurological symptoms such as: nervousness or anxiety. irritability or mood changes. numbness.","press 1 to go to concert, 2 for school, 3 for medical",0,0,1,0
+9,jupiter,16,5,24,"you landed on jupiter, the pressure at the center of Jupiter is much higher. At Jupiter's core, you would feel as much as 650 million pounds of pressure pressing down on every square inch of your body.","press 1 to go to school, 2 for casino, 3 for alien residence",0,0,1,0
+10,saturn,14,3,16,"you are in saturn, it is blanketed with clouds that appear as faint stripes, jet streams, and storms. The planet is many different shades of yellow, brown, and gray.","press 1 to go to beach, 2 for church, 3 for school",0,0,1,1
+11,neptune,1,14,20,"you arrived in neptune, it is dark, cold, and very windy.","press 1 to go to home, 2 for beach, 3 for undersea",0,0,0,0
+12,uranus,25,2,5,"you are here in uranus, you just sunk down through the upper atmosphere of hydrogen and helium, and into the liquid icy center","press 1 to go to concert, 2 for office, 3 for casino",0,0,0,1
+13,venus,8,3,18,"you are in venus, it feels like walking through air that's as thick as a pool of water.","press 1 to go to mercury, 2 for church, 3 for marvel studio",0,0,0,1
+14,beach,23,19,11,"you got to the beach, you walk on wet sand, feel the ocean breeze on your face, and smell the saltiness of the sea. ","press 1 to go to antarctica, 2 for disneyland, 3 for neptune",0,0,1,1
+15,disco,1,25,4,"you at the disco, you love the flamenco guitar in “Wild Thoughts,” BUT WHAT IF “DROP IT LIKE IT'S HOT” IS ON RIGHT NOW?","press 1 to go to home, 2 for concert, 3 for market",0,0,1,1
+16,school,10,19,24,"you arrived at the school, It's normal to feel nervous or worried. But everybody's been the new kid somewhere at some point.","press 1 to go to saturn, 2 for disneyland, 3 for alien residence",0,0,0,0
+17,medical,7,1,14,"you at the medical, being in hospital gets you worried about your health.","press 1 to go to mars, 2 for home, 3 for beach",0,0,1,1
+18,marvel studio,14,1,2,"you arrived at marvel studios, they're pretty uptight with security and cameras and badges necessary everywhere.","press 1 to go to beach, 2 for home, 3 for office",0,0,1,0
+19,disneyland,12,18,6,"you are in disneyland, There is only one feeling that describes the awe you experience entering the park — happiness.","press 1 to go to uranus, 2 for marvel studio, 3 for moon",0,0,0,1
+20,undersea,17,9,3,"you are beanth the sea, you feel: intense tightening in your chest, suffocation, air hunger, a burning sensation in your lungs. Basically, a lot of discomfort!","press 1 to go to medical, 2 for jupiter, 3 for church",0,0,1,0
+21,mount everest,22,3,6,"you are right on mount everest, the air has so little oxygen in it that even with supplementary air tanks, it feels like ""running on a treadmill and breathing through a straw.""","press 1 to go to arabian desert, 2 for church, 3 for moon",0,0,0,1
+22,arabian desert,,,,"you at the arabian desert, no food nor water",,0,1,0,0
+23,antarctica,,,,"you arrived at antartica. it icy cold, but you found the hidden treasure.",,1,0,0,0
+24,alien residence,,,,"you found yourself at an alien residence, where they made you God of the new world.",,1,0,0,0
+25,concert,,,,"you arrived at a concert, where a stanpid incident is on going, oops! u got stepped on.",,0,1,0,0
